@@ -13,3 +13,4 @@ ADMIT: A general framework for constructing, constraining, and analyzing point p
 *Workshop on Distribution-Free Uncertainty Quantification at the Thirty-ninth International Conference on Machine Learning (ICML 2022)* (Non-archival). Baltimore, Maryland, July 23, 2022
 - 5 minute overview: [video](https://youtu.be/K4LDObowzgE)
 - 5 minute overview: [slides](presentations/icml_dfuq22_workshop/icml_workshop_5min_overview.pdf)
+- [poster](presentations/icml_dfuq22_workshop/icml_workshop_2022_poster.pdf)
